@@ -1,4 +1,3 @@
-```
 import os
 import sys
 import time
@@ -32,4 +31,3 @@ if __name__ == '__main__':
         main(tc)
     if DEBUG:
         print("\n--- %0.0f ms ---" % ((time.time() - start_time) * 1000))
-```
